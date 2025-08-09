@@ -89,8 +89,9 @@ int main(){
 
   int cubeSum = gig1*gig1*gig1 + dig2*dig2*dig2 + dig3*dig3*dig3;
 
+
   if(cubeSum == n){
-    cout << n << " is an Armstrong number \n";
+    cout << n << " is an Armstrong number! \n";
   }
   else{
     cout << n << " is not an Armstrong number \n";
