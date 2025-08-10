@@ -91,7 +91,7 @@ int main(){
 
 
   if(cubeSum == n){
-    cout << n << " is an Armstrong number! \n";
+    cout << n << " is an Armstrong number \n";
   }
   else{
     cout << n << " is not an Armstrong number \n";
